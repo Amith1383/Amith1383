@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Amit, a multifaceted crypto enthusiast with a passion for community building, event organization, and blockchain innovation data analyst from INDIA
 
-<!--
-**Amith1383/Amith1383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m working as a Moderator and community manager in some of the web3 projects on Ton ecosystem contributing to the community 
 
-Here are some ideas to get you started:
+### Skills
+* Blockchain platforms: Ethereum, Binance Smart Chain
+* Tools: Truffle, Web3.js, MetaMask
+* Community building and engagement
+* Event planning and organization
+* Content creation and moderation
+* Social media management
+* Event planning and execution
+* Speaker curation and management
+* Sponsorship and fundraising
+* Marketing and promotion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 
+### Projects
+
+* [zoul]: [ A web based project focused on connecting Normal users to the micro influencers or influencers by paying certain amount of crypto ]
+
+
+### Connect
+
+* Twitter: [https://x.com/Steve4711511088?t=Uo2V9p0b2M0WD0-zHWjHpg&s=09]
+* LinkedIn: [https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav]
+* Email: [steve2002233@gmail.com]
